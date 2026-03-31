@@ -56,14 +56,12 @@ The system uses a rule-based predictive model and visual tools to give users mea
 ## Output
 
 ### Water Intake Graph
-![Graph](graph.png)
 
-### 🐢 Daily Progress Visualization
-![Turtle](turtle.png)
+### Daily Progress Visualization
 
 ---
 
-## ⚙️ How to Run the Project
+## How to Run the Project
 
 ### 1. Prerequisites
 Make sure Python is installed:
