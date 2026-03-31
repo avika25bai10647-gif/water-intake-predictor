@@ -1,35 +1,71 @@
-# Daily Water Intake Predictor
+# Daily Water Intake Predictor & Tracker
 
-## Problem
-Many people do not maintain proper hydration habits and often forget to track their daily water intake.
+### *Smart Hydration Assistant using Basic AI Logic*
 
-## Solution
-This project predicts daily water intake based on weight, temperature, and activity level. It also tracks past water consumption and visualizes the data.
+An intelligent and interactive system that predicts daily water requirements and tracks user hydration habits. This project combines simple AI-based prediction with visual analytics to help users maintain proper hydration.
 
-## Features
-- Predicts water intake using simple AI logic
-- Tracks 5-day water consumption
-- Graph visualization using matplotlib
-- Turtle-based progress display
+---
+
+## Overview
+
+Maintaining proper hydration is essential for overall health, yet many individuals fail to monitor their daily water intake. This project addresses that issue by providing a simple and effective way to both **estimate required water intake** and **track actual consumption**.
+
+The system uses a rule-based predictive model and visual tools to give users meaningful insights into their hydration habits.
+
+---
+
+## AI Concepts Applied
+
+- **Rule-Based Prediction Model**  
+  Calculates recommended water intake using user inputs like weight, temperature, and activity level.
+
+- **Data Visualization**  
+  Uses graphical representation to analyze trends in water consumption.
+
+- **User Behavior Tracking**  
+  Tracks past intake data to compare with recommended values.
+
+---
 
 ## Tech Stack
-Python, Matplotlib, Turtle
 
-## How to Run
-1. Install dependencies:
-   pip install -r requirements.txt
-2. Run:
-   python main.py
+- **Language:** Python 3  
+- **Visualization:** Matplotlib  
+- **Graphics UI:** Turtle  
+- **Logic:** Custom rule-based AI model  
+
+---
+
+## Features
+
+- Predicts daily water intake based on:
+  - Weight  
+  - Temperature  
+  - Activity level  
+
+- Tracks water consumption for 5 days  
+
+- Generates:
+  -  Line graph (Matplotlib)
+  -  Visual progress bar (Turtle)
+
+- Calculates percentage completion of daily goal  
+
+---
 
 ## Output
 
-### Graph
+### Water Intake Graph
 ![Graph](graph.png)
 
-### Turtle Output
+### 🐢 Daily Progress Visualization
 ![Turtle](turtle.png)
 
-## Future Improvements
-- Add reminders
-- Improve UI
-- Use real ML model
+---
+
+## ⚙️ How to Run the Project
+
+### 1. Prerequisites
+Make sure Python is installed:
+```bash
+python --version
