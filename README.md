@@ -1,5 +1,13 @@
 # Daily Water Intake Predictor & Tracker
 
+Student Details:
+
+Name: Avika Singh 
+Registration Number: 25BAI10647 
+Branch: B.Tech CSE (Artificial Intellience & Machine Learning) 
+Year: 1st Year (2nd Semester) 
+Course: CSE0001 – Digital Literacy
+
 ### *Smart Hydration Assistant using Basic AI Logic*
 
 An intelligent and interactive system that predicts daily water requirements and tracks user hydration habits. This project combines simple AI-based prediction with visual analytics to help users maintain proper hydration.
